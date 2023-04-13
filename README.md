@@ -1,2 +1,4 @@
 # desafios
-Neste repositório eu armazeno meus desafios realizados na plataforma www.kaggle.com, os quais eu uso como treinamento - principalmente a etapa de análise exploratória.
+
+Cada subpasta deste repositório é uma área de trabalho, onde eu guardo meus: dashboards, datasets e scripts. Faço isso para salvar meus arquivos e registrar meu estudo, como eu estudo por bootcamps sintoo que pode ser nescessário em algum momento.
+
